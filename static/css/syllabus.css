@@ -37,6 +37,13 @@ tr.even {
     text-align: center; 
 }
 
+.class-schedule .start {
+    padding-left: 2ex;
+    padding-right: 2ex;
+    /* leave as default */
+}
+
+
 .class-schedule .topic {
     padding-left: 3ex;
     padding-right: 3ex;
@@ -47,6 +54,7 @@ tr.even {
     border-left-style: solid;
     border-left-width: 1px;
     border-left-color: black; 
+
     padding-left: 2ex;
     font-style: italic;
 }

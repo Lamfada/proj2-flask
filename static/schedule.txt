@@ -3,6 +3,8 @@ begin:  09/28/2015
 
 week: 1
 
+start: 01/04/2016
+
 topic: Course introduction.  Basic web (http) architecture.  Managing
 	a code base with distributed version control.  Basic Unix.
 	Getting unstuck. Read CIS 322 style guide (~4 pages); a git
@@ -14,6 +16,8 @@ project: Implement a trivial web server entirely in Python.
 
 week: 2
 
+start: 01/11/2016
+
 topic: 
   Flask (web “micro-framework” for Python), Javascript (client side
   programming language)	 Read selectively from Flask documentation (~14 pages).   
@@ -23,6 +27,7 @@ project:  Implement a web application
   servers. 
 
 week: 3
+start: 01/18/2016
 topic: 
 Ajax. Introduction to testing and test automation.	  Selectively
 read “A re-introduction to  to Javascript” (~10 pages of 27).   A
@@ -35,6 +40,7 @@ Implement an anagram game as an interactive web in the
 interact with a web service in Flask.
 
 week: 4
+start:01/25/2016
 topic: 
   Testing.  Data driven (table-driven) programs.  Refining
   specifications. 	Read RUSA
@@ -48,7 +54,7 @@ project:
 
 
 week: 5
-
+start: 02/01/2016
 topic: 
 Midterm.  JavaScript APIs.
 
@@ -58,6 +64,7 @@ for Leaflet (10-15 pages) and reverse geocoding (depends on which
 geocoder you choose).
 
 week: 6
+start: 02/08/2016
 topic: NoSQL database. User experience design and usability.
 project:   MongoDB project (“Memos of Mongo”).  Read selectively from
 MongoDB documentation (~10 pages).   This project is small, but you
@@ -66,11 +73,13 @@ not succeed if you start with the actual project.
 
 
 week: 7
+start: 02/15/2016
 topic:   Security. Reading APIs. UML.
 project:  List busy times from selected Google calendars.   Read
 Google API documentation.  10-15 pages, scattered.  
 
 week: 8
+start: 02/22/2016
 topic: 	Persistent state management.
 project:  Calculate free
 times by excluding busy times from calendars.  
@@ -78,12 +87,14 @@ Read more Google APIs as needed.  (Light week for reading, heavy week
 for programming and testing.)   
 
 week: 9
+start: 02/29/2016
 topic:  More on user experience and usability.
 project:    Begin final integration of MeetMe application combining
 functionality from projects 6, 7, and 8. Produce and critique mock-ups
 (“wire frames”) for MeetMe.
 
 week: 10
+start: 03/07/2016
 topic:  	Wrap-up; review designs and implementations
 project:  Finish MeetMe project. 
 

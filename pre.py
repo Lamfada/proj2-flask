@@ -43,7 +43,7 @@ def process(raw):
             entry['project'] = ""
             entry['week'] = content
 
-        elif field == 'topic' or field == 'project':
+        elif field == 'topic' or field == 'project' or field == 'start':
             entry[field] = content
 
         else:
